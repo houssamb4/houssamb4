@@ -43,13 +43,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=Apache-Kafka)
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houssam&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssam&layout=compact&theme=radical" />
-</p>
-
 ### Connect with Me
 
 <p align="center">
