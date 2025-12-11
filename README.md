@@ -1,9 +1,11 @@
 <p align="center">
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://capsule-render.vercel.app/api?type=rounded&height=140&section=header&text=Houssam&animation=fade&color=00C6FF&customColorList=00C6FF,0072FF,00FFD5&background=0f172a&fontSize=42"/>
+            srcset="https://capsule-render.vercel.app/api?type=rounded&color=00C6FF&height=140&section=header&text=Houssam&animation=twinkle&background=0f172a&fontSize=40"/>
+    <!-- Light mode fallback -->
     <img width="100%"
-         src="https://capsule-render.vercel.app/api?type=rounded&height=140&section=header&text=Houssam&animation=fade&color=00C6FF&customColorList=00C6FF,0072FF,00FFD5&background=ffffff&fontSize=42"
+         src="https://capsule-render.vercel.app/api?type=rounded&color=00C6FF&height=140&section=header&text=Houssam&animation=twinkle&background=ffffff&fontSize=40"
          alt="header"/>
   </picture>
 </p>
