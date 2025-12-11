@@ -1,16 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C+Coffee+Powered" alt="typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0072FF&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C+Coffee+Powered"/>
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Houssam</h1>
-
-<h3 align="center">📍 Morocco | 🎓 Engineering Student | ☕ Powered by Coffee</h3>
 
 ### 🛠️ Technologies & Languages
 
