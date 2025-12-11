@@ -1,13 +1,23 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header&background=0f172a">
+    <img width="100%"
+         src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header&background=ffffff"
+         alt="header"/>
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=fff&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C+Coffee+Powered"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C+Coffee+Powered">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0072FF&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C+Coffee+Powered"
+           alt="typing"/>
+    </picture>
   </a>
 </p>
-
 
 ### 🛠️ Technologies & Languages
 
