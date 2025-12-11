@@ -2,14 +2,12 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)"
               srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C">
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0072FF&width=435&lines=Hello%2C+it's+Houssam;Engineering+Student+%7C"
            alt="typing"/>
     </picture>
-  </a>
 </p>
 
 ### 🛠️ Technologies & Languages
