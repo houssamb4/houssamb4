@@ -1,14 +1,4 @@
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://capsule-render.vercel.app/api?type=rounded&color=00C6FF&height=140&section=header&text=Houssam&animation=twinkle&background=0f172a&fontSize=40"/>
-    <!-- Light mode fallback -->
-    <img width="100%"
-         src="https://capsule-render.vercel.app/api?type=rounded&color=00C6FF&height=140&section=header&text=Houssam&animation=twinkle&background=ffffff&fontSize=40"
-         alt="header"/>
-  </picture>
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header&background=0f172a"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&customColorList=00C6FF,0072FF&height=120&section=header&background=ffffff" alt="header"/> </picture> </p>
 
 
 <p align="center">
