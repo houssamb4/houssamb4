@@ -10,6 +10,10 @@
     </picture>
 </p>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f38c01d8-2ac2-4f83-87ac-6011e16c5531" alt="Portfolio Demo" width="600">
+</div>
+
 ### 🛠️ Technologies & Languages
 
 #### Programming Languages
